@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Yuri Sodré 
-🌱 Estudando Front End
-☕ Pegue um café
+- 🌱 Estudando Front End
+- ☕ Pegue um café
 
 <div align="center">
   <a href="https://github.com/ySodre">
