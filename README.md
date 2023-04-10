@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Yuri Sodré 
-- 🌱 Estudando Front End
+- 🌱 Estudando DevOPS
 - ☕ Pegue um café
 
 <div align="center">
