@@ -3,7 +3,7 @@
 
 - 🔭 Eu trabalho atualmente como **Analista de infraestrutura**
 
-- 🌱 Atualmente estou estudando **Docker, Kubernet, IaaC, CI/CD, Cloud**
+- 🌱 Estou estudando **Docker, Kubernet, IaaC, CI/CD, Cloud**
 
 - 📫 How to reach me **it-sodre@outlook.com**
 
