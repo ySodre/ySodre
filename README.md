@@ -3,9 +3,9 @@
 
 - 🔭 Eu trabalho atualmente como **Analista de infraestrutura**
 
-- 🌱 Estou estudando **Docker, Kubernet, IaaC, CI/CD, Cloud**
+- 🌱 Estou estudando **Docker, Kubernet, IaaC, CI/CD e Cloud**
 
-- 📫 How to reach me **it-sodre@outlook.com**
+- 📫 Entre em contato comigo via **it-sodre@outlook.com**
 
 - 📄 Experiências [https://www.linkedin.com/in/yuri-sodr%C3%A9/](https://www.linkedin.com/in/yuri-sodr%C3%A9/)
 
