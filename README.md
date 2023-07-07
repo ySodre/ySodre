@@ -22,7 +22,7 @@
 
 
 
- ![Snake animation](https://github.com/ySodre/ySodre/blob/output/github-contribution-grid-snake.svg) 
+
   
 <!---
 ## Olá! Eu sou o Yuri Sodré 
